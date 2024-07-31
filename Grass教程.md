@@ -22,8 +22,8 @@
 
 小狐狸钱包不能用可以使用欧意钱包
 
-![image-20240731143750634](D:\桌面\笔记\images\image-20240731143750634-17224078720171.png)
 
+![image](https://github.com/user-attachments/assets/86e3f6fa-9a21-4d65-b56d-8ca6fffd9feb)
 
 
 
