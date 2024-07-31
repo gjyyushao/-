@@ -32,7 +32,7 @@
 
 **三种方式**
 
-![image-20240731143833788](D:\桌面\笔记\images\image-20240731143833788-17224079152892.png)
+![image](https://github.com/user-attachments/assets/03fb98a8-4165-4c14-a6b5-dc6a6fcf53d1)
 
 
 
@@ -44,7 +44,8 @@
 
 ##### 客户端下载：
 
-![image-20240731143858477](D:\桌面\笔记\images\image-20240731143858477-17224079393583.png)
+![image](https://github.com/user-attachments/assets/5edb06df-859a-48c8-9fc2-698af41441b2)
+
 
 客户端下载方式
 
@@ -58,8 +59,8 @@ https://sergeantlazo.com/grass-desktop-node-with-2x-earnings/
 
 创始人推荐的，还是有一定保障【不放心可以直接使用谷歌插件】
 
-![image-20240731144411098](D:\桌面\笔记\images\image-20240731144411098-17224082519344.png)
 
+![image](https://github.com/user-attachments/assets/e24bc96f-6db6-45ed-8e3c-113a0035e248)
 
 
 
@@ -69,8 +70,9 @@ https://sergeantlazo.com/grass-desktop-node-with-2x-earnings/
 #### grass官方事项：
 
 https://wynd-network.gitbook.io/grass-docs/introduction/faq
+![image](https://github.com/user-attachments/assets/1217c702-9478-4498-a36d-3a6bddc2018a)
 
-![image-20240731144654832](D:\桌面\笔记\images\image-20240731144654832-17224084157245.png)
+
 
 
 
@@ -86,7 +88,7 @@ https://wynd-network.gitbook.io/grass-docs/introduction/faq
 
 网站最好别关【刷新检查连接状态】，**客户端**和**插件**表示 连接成功 **不代表** 连接成功
 
-![image-20240731144959961](D:\桌面\笔记\images\image-20240731144959961-17224086009546.png)
+![image](https://github.com/user-attachments/assets/e77a01cc-11df-43e2-afbc-100df6117d51)
 
 
 
